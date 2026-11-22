@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d365b0892d3e4c48bfc34faf4504459
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - morningSkybox: {fileID: 2100000, guid: cba33d1115bf1f14e9225e243bc449a0, type: 2}
+  - daySkybox: {fileID: 2100000, guid: 7f4661143586a16408d1188f1c288418, type: 2}
+  - eveningSkybox: {fileID: 2100000, guid: 9a5414b9aefecf746a7e4783bf9142b2, type: 2}
+  - nightSkybox: {fileID: 2100000, guid: 294161f37eb6cc24b9c2d9d61c1cbf01, type: 2}
+  - hourText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
